@@ -175,4 +175,5 @@ cython_debug/
 
 *.txt
 *.pdf
+*.html
 .DS_Store
